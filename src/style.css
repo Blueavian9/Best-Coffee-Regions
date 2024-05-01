@@ -145,3 +145,9 @@ a {
     text-decoration: none;
     letter-spacing: 2px;
 }
+
+
+.footer-col,
+h4 {
+    text-align: center;
+}
